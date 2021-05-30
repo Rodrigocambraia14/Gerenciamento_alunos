@@ -1,0 +1,39 @@
+﻿@using Sistema_turma.Models
+{
+    
+}
+@model Aluno
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a button class="btn btn-primary btn-lg" onclick=""></button>
+
+
+<h1>Cadastro de alunos</h1>
+
+<form method="POST" asp-action="Confirmacao">
+
+    <label asp-for="Turma">Turma</label>
+    <select name="Turma">
+        <option value="1">Turma 1</option>
+        <option value="2">Turma 2</option>
+        <option value="3">Turma 3</option>
+    </select>
+
+    <label asp-for="Nome">Nome:</label>
+    <input type="text" asp-for="Nome" placeholder="Nome do aluno">
+
+    <label asp-for="Nota1">Nota da 1° prova</label>
+    <input type="text" asp-for="Nota1">
+
+    <label asp-for="Nota2">Nota da 2° prova</label>
+    <input type="text" asp-for="Nota2">
+
+    <label asp-for="Nota3">Nota da 3° prova</label>
+    <input type="text" asp-for="Nota3">
+
+    <input class="btn btn-primary" type="submit" value="Enviar">
+
+</form>
