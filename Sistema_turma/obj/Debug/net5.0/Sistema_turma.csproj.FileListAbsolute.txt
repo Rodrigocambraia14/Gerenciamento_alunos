@@ -37,3 +37,42 @@ C:\Users\fesco\OneDrive\Área de Trabalho\Sistema_turma\obj\Debug\net5.0\Razor\V
 C:\Users\fesco\OneDrive\Área de Trabalho\Sistema_turma\obj\Debug\net5.0\Sistema_turma.Views.pdb
 C:\Users\fesco\OneDrive\Área de Trabalho\Sistema_turma\obj\Debug\net5.0\Sistema_turma.genruntimeconfig.cache
 C:\Users\fesco\OneDrive\Área de Trabalho\Sistema_turma\obj\Debug\net5.0\Sistema_turma.csproj.CopyComplete
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\appsettings.json
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.exe
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.deps.json
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.runtimeconfig.json
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.runtimeconfig.dev.json
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.dll
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\ref\Sistema_turma.dll
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.pdb
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.Views.dll
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\bin\Debug\net5.0\Sistema_turma.Views.pdb
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.csprojAssemblyReference.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.AssemblyInfoInputs.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.AssemblyInfo.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.csproj.CoreCompileInputs.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.RazorAssemblyInfo.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.RazorAssemblyInfo.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\staticwebassets\Sistema_turma.StaticWebAssets.Manifest.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\staticwebassets\Sistema_turma.StaticWebAssets.xml
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\scopedcss\bundle\Sistema_turma.styles.css
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.TagHelpers.input.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.TagHelpers.output.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.RazorCoreGenerate.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.RazorTargetAssemblyInfo.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.RazorTargetAssemblyInfo.cs
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.Views.pdb
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.dll
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\ref\Sistema_turma.dll
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.pdb
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.genruntimeconfig.cache
+C:\Users\fesco\OneDrive\Documentos\GitHub-Projects\Gerenciamento_alunos\Sistema_turma\obj\Debug\net5.0\Sistema_turma.csproj.CopyComplete

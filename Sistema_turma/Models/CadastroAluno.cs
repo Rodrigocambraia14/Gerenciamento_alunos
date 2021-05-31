@@ -28,6 +28,12 @@ namespace Sistema_turma.Models
             }
             
         }
+
+        public static void CalcularMedia(Aluno aluno)
+        {
+            aluno.Media = (float)((aluno.Nota1 + (aluno.Nota2 * 1.2) + (aluno.Nota3 * 1.4))/ 3.6);
+            
+        }
         public static List<Aluno> Listar1()
         {
             return alunos1;

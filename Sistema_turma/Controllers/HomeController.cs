@@ -65,6 +65,23 @@ namespace Sistema_turma.Controllers
                 }
                break;
            } 
+           CadastroAluno.CalcularMedia(aluno);
+           if(aluno.Media > 6)
+            {
+               ViewBag.Mensagem1 = "Aprovado";
+            }
+            else
+            {
+                if(aluno.Media >= 4 && aluno.Media <=6)
+                {
+                ViewBag.Mensagem1 = "Prova Final";
+                }
+                else
+                {
+                    ViewBag.Mensagem1 = "Reprovado";
+                }
+
+            }
            return View(aluno);
         }
 

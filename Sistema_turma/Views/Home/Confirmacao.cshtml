@@ -1,9 +1,4 @@
-
-@model List<Aluno>
-
-@{
-    ViewData["Title"] = "Confirmacao";
-}
+@model IEnumerable<Sistema_turma.Models.Aluno>
 
 <table>
     <thead>
@@ -25,6 +20,7 @@
             <td>@a.Nota2</td>
             <td>@a.Nota3</td>
             <td>@a.Media</td>
+            <td>@ViewBag.Mensagem1</td>
         </tr>
     }
 </table>

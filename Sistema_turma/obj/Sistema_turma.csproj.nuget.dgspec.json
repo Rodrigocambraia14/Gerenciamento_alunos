@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fesco\\OneDrive\\Área de Trabalho\\Sistema_turma\\Sistema_turma.csproj": {}
+    "C:\\Users\\fesco\\OneDrive\\Documentos\\GitHub-Projects\\Gerenciamento_alunos\\Sistema_turma\\Sistema_turma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fesco\\OneDrive\\Área de Trabalho\\Sistema_turma\\Sistema_turma.csproj": {
+    "C:\\Users\\fesco\\OneDrive\\Documentos\\GitHub-Projects\\Gerenciamento_alunos\\Sistema_turma\\Sistema_turma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fesco\\OneDrive\\Área de Trabalho\\Sistema_turma\\Sistema_turma.csproj",
+        "projectUniqueName": "C:\\Users\\fesco\\OneDrive\\Documentos\\GitHub-Projects\\Gerenciamento_alunos\\Sistema_turma\\Sistema_turma.csproj",
         "projectName": "Sistema_turma",
-        "projectPath": "C:\\Users\\fesco\\OneDrive\\Área de Trabalho\\Sistema_turma\\Sistema_turma.csproj",
+        "projectPath": "C:\\Users\\fesco\\OneDrive\\Documentos\\GitHub-Projects\\Gerenciamento_alunos\\Sistema_turma\\Sistema_turma.csproj",
         "packagesPath": "C:\\Users\\fesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fesco\\OneDrive\\Área de Trabalho\\Sistema_turma\\obj\\",
+        "outputPath": "C:\\Users\\fesco\\OneDrive\\Documentos\\GitHub-Projects\\Gerenciamento_alunos\\Sistema_turma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
