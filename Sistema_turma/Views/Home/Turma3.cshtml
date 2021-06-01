@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Home";
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Nota (prova1)</th>
+            <th scope="col">Nota (prova2)</th>
+            <th scope="col">Nota (prova3)</th>
+            <th scope="col">Média</th>
+            <th scope="col">Situação</th>
+            <th scope="col">Nota (Prova final)</th>
+            <th scope="col">Média Final</th>
+            <th scope="col">Situação Final</th>
+        </tr>
+    </thead>
+    @foreach(Alunos a in Model)
+    {
+        <tr>
+            <td>@a.Nome</td>
+            <td>@a.Nota1</td>
+            <td>@a.Nota2</td>
+            <td>@a.Nota3</td>
+            <td>@a.Media.ToString("F")</td>
+            <td>@a.Mensagem</td>
+            <td>@a.NotaFinal</td>
+            <td>@a.MediaFinal.ToString("F")</td>
+            <td>@a.MensagemFinal</td>
+        </tr>
+    }
+</table>
